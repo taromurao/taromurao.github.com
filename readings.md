@@ -7,6 +7,13 @@ tagline: Supporting tagline
 2018
 ----
 
+- エジソン (おもしろくてやくにたつ子どもの伝記)
+- ファーブル (おもしろくてやくにたつ子どもの伝記)
+- ナイチンゲール (おもしろくてやくにたつ子どもの伝記)
+- キュリー夫人 (おもしろくてやくにたつ子どもの伝記)
+- エジソン (おもしろくてやくにたつ子どもの伝記)
+- ヘレン・ケラー (おもしろくてやくにたつ子どもの伝記)
+- Travis Bradberry (2009) Emotional Intelligence
 - Garrett Sutton (2012) Start Your Own Corporation: Why the Rich Own Their Own Companies and Everyone Else Works for Them
 - Robert T. Kiyosaki (2014) Rich Dad's Guide to Investing: What the Rich Invest In, That the Poor and Middle Class Do Not!
 - James T. Webb et al. (1994) Guiding the Gifted Child
