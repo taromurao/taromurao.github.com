@@ -4,6 +4,11 @@ title: Readings
 tagline: Supporting tagline
 ---
 
+2019
+----
+
+- DK (2017) Das Geschichtsbuch
+
 2018
 ----
 
