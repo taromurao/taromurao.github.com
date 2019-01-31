@@ -7,6 +7,7 @@ tagline: Supporting tagline
 2019
 ----
 
+- Günter Faltin (2008) Kopf schlägt Kapital
 - DK (2017) Das Geschichtsbuch
 
 2018
