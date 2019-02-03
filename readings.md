@@ -19,6 +19,7 @@ tagline: Supporting tagline
 - キュリー夫人 (おもしろくてやくにたつ子どもの伝記)
 - エジソン (おもしろくてやくにたつ子どもの伝記)
 - ヘレン・ケラー (おもしろくてやくにたつ子どもの伝記)
+- Wes McKinney (2012) Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython
 - Travis Bradberry (2009) Emotional Intelligence
 - Garrett Sutton (2012) Start Your Own Corporation: Why the Rich Own Their Own Companies and Everyone Else Works for Them
 - Robert T. Kiyosaki (2014) Rich Dad's Guide to Investing: What the Rich Invest In, That the Poor and Middle Class Do Not!
