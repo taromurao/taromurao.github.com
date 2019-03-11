@@ -7,6 +7,7 @@ tagline: Supporting tagline
 2019
 ----
 
+- DK (2014) Das Religionen-Buch: Große Ideen einfach erklärt
 - Alan W. Hirshfeld (2006) The Electric Life of Michael Faraday
 - Alexander Kennedy (2016) Thomas Edison: Inventing the Modern World (The True Story of Thomas Edison) (Historical Biographies of Famous People)
 - Wladyslaw Miodunka (2006) Czesc, Jak Sie Masz?: Bk.1: A Polish Language Textbook for Beginners
