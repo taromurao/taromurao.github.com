@@ -7,6 +7,8 @@ tagline: Supporting tagline
 2019
 ----
 
+- Eknath Easwaran (2007) The Bhagavad Gita
+- Jutta Besser (2010) Zusammen ist man nicht allein
 - DK (2014) Das Religionen-Buch: Große Ideen einfach erklärt
 - Alan W. Hirshfeld (2006) The Electric Life of Michael Faraday
 - Alexander Kennedy (2016) Thomas Edison: Inventing the Modern World (The True Story of Thomas Edison) (Historical Biographies of Famous People)
@@ -17,6 +19,7 @@ tagline: Supporting tagline
 2018
 ----
 
+- ローラ インガルス ワイルダー　(2002) 大きな森の小さな家 ―インガルス一家の物語〈1〉
 - エジソン (おもしろくてやくにたつ子どもの伝記)
 - ファーブル (おもしろくてやくにたつ子どもの伝記)
 - ナイチンゲール (おもしろくてやくにたつ子どもの伝記)
