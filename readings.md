@@ -7,6 +7,7 @@ tagline: Supporting tagline
 2019
 ----
 
+- Rebeca Wild (1992) 6th ed. Erziehung zum Sein
 - Eknath Easwaran (2007) The Bhagavad Gita
 - Jutta Besser (2010) Zusammen ist man nicht allein
 - DK (2014) Das Religionen-Buch: Große Ideen einfach erklärt
