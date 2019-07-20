@@ -7,6 +7,7 @@ tagline: Supporting tagline
 2019
 ----
 
+- Claudia Knauer (2015) Dänemark: Ein Länderporträt
 - Jesper Juul (2001) Your competent child
 - Rebeca Wild (1992) 6th ed. Erziehung zum Sein
 - Eknath Easwaran (2007) The Bhagavad Gita
