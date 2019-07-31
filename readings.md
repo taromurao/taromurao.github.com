@@ -7,6 +7,7 @@ tagline: Supporting tagline
 2019
 ----
 
+- Daniel Greenberg 5. Aufl. (1995) Endlich frei!
 - Claudia Knauer (2015) Dänemark: Ein Länderporträt
 - Jesper Juul (2001) Your competent child
 - Rebeca Wild (1992) 6th ed. Erziehung zum Sein
