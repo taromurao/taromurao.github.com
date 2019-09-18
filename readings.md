@@ -7,6 +7,7 @@ tagline: Supporting tagline
 2019
 ----
 
+- Jesper Juul (2018) Leitwölfe sein: Liebevolle Führung in der Familie
 - Daniel Greenberg 5. Aufl. (1995) Endlich frei!
 - Claudia Knauer (2015) Dänemark: Ein Länderporträt
 - Jesper Juul (2001) Your competent child
