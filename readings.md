@@ -7,6 +7,7 @@ tagline: Supporting tagline
 2019
 ----
 
+- Andrew Holecek (2016) Dream Yoga: Illuminating Your Life Through Lucid Dreaming and the Tibetan Yogas of Sleep
 - Jesper Juul (2018) Leitwölfe sein: Liebevolle Führung in der Familie
 - Daniel Greenberg 5. Aufl. (1995) Endlich frei!
 - Claudia Knauer (2015) Dänemark: Ein Länderporträt
