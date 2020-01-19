@@ -4,6 +4,11 @@ title: Readings
 tagline: Supporting tagline
 ---
 
+# 2020
+
+- W. J. King, James G. Skoon (2001) Unwritten Laws of Engineering: Revised and Updated Edition
+
+
 2019
 ----
 
