@@ -6,6 +6,10 @@ tagline: Supporting tagline
 
 # 2020
 
+- Maß- und Integrationstheorie (Hagen Universität)
+- Lineare Algebra (Hagen Universität)
+- Elementale Zahlentheorie mit Maple (Hagen Universität)
+- 星野 道夫 (1993) 旅をする木
 - W. J. King, James G. Skoon (2001) Unwritten Laws of Engineering: Revised and Updated Edition
 
 
