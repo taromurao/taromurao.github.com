@@ -6,6 +6,7 @@ tagline: Supporting tagline
 
 # 2020
 
+- Einführung in die objektorientierte Programmierung (Hagen Universität)
 - Maß- und Integrationstheorie (Hagen Universität)
 - Lineare Algebra (Hagen Universität)
 - Elementale Zahlentheorie mit Maple (Hagen Universität)
