@@ -6,6 +6,7 @@ tagline: Supporting tagline
 
 # 2020
 
+- André Minak (2016) Rohkost aus Liebe: Natürliche Nahrung natürlich genießen
 - Einführung in die objektorientierte Programmierung (Hagen Universität)
 - Maß- und Integrationstheorie (Hagen Universität)
 - Lineare Algebra (Hagen Universität)
