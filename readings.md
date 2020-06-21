@@ -7,6 +7,7 @@ tagline: Supporting tagline
 # 2020
 
 - Christopher Kormanyos (2018) Real-Time C++: Efficient Object-Oriented and Template Microcontroller Programming (3rd. ed.)
+- André Minak (2016) Rohkost aus Liebe: Natürliche Nahrung natürlich genießen
 - Einführung in die objektorientierte Programmierung (Hagen Universität)
 - Maß- und Integrationstheorie (Hagen Universität)
 - Lineare Algebra (Hagen Universität)
