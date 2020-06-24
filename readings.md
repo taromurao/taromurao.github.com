@@ -6,6 +6,7 @@ tagline: Supporting tagline
 
 # 2020
 
+- Ashley Davis (2018) Data Wrangling with JavaScript
 - Christopher Kormanyos (2018) Real-Time C++: Efficient Object-Oriented and Template Microcontroller Programming (3rd. ed.)
 - André Minak (2016) Rohkost aus Liebe: Natürliche Nahrung natürlich genießen
 - Einführung in die objektorientierte Programmierung (Hagen Universität)
