@@ -9,6 +9,8 @@ tagline: Supporting tagline
 - Analysis (Hagen Universität)
 - Einführung in die Stochastik (Hagen Universität)
 - Stephen LaBerge (1991) Exploring the World of Lucid Dreaming
+- Ashley Davis (2018) Data Wrangling with JavaScript
+- Christopher Kormanyos (2018) Real-Time C++: Efficient Object-Oriented and Template Microcontroller Programming (3rd. ed.)
 - André Minak (2016) Rohkost aus Liebe: Natürliche Nahrung natürlich genießen
 - Einführung in die objektorientierte Programmierung (Hagen Universität)
 - Maß- und Integrationstheorie (Hagen Universität)
