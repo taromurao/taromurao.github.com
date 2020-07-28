@@ -6,6 +6,9 @@ tagline: Supporting tagline
 
 # 2020
 
+- Analysis (Hagen Universität)
+- Einführung in die Stochastik (Hagen Universität)
+- Stephen LaBerge (1991) Exploring the World of Lucid Dreaming
 - André Minak (2016) Rohkost aus Liebe: Natürliche Nahrung natürlich genießen
 - Einführung in die objektorientierte Programmierung (Hagen Universität)
 - Maß- und Integrationstheorie (Hagen Universität)
