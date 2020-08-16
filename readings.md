@@ -6,6 +6,7 @@ tagline: Supporting tagline
 
 # 2020
 
+- die freilerner Zeitung Hefte 77 2018
 - Anke Stemmmann (2013) Potsdam Entdecken
 - Analysis (Hagen Universität)
 - Einführung in die Stochastik (Hagen Universität)
