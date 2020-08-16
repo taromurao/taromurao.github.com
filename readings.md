@@ -6,6 +6,7 @@ tagline: Supporting tagline
 
 # 2020
 
+- Wolfgang Schmitz (2013) Schneller lesen - besser verstehen
 - Anke Stemmmann (2013) Potsdam Entdecken
 - Analysis (Hagen Universität)
 - Einführung in die Stochastik (Hagen Universität)
