@@ -6,6 +6,7 @@ tagline: Supporting tagline
 
 # 2020
 
+- L. Kittstein, S. Weisgerber und K. Witzel (2020) Schulverweigerung („Freilernen“) als ziviler Ungehorsam
 - Wolfgang Schmitz (2013) Schneller lesen - besser verstehen
 - Anke Stemmmann (2013) Potsdam Entdecken
 - Analysis (Hagen Universität)
@@ -125,4 +126,3 @@ tagline: Supporting tagline
 - Bruce A. Tate (2010) Seven Languages in Seven Weeks: A Pragmatic Guide to
   Leaning Programming Languages
 - Claire A. Nivola (2011) Orani: My Father's Village
-
