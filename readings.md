@@ -7,6 +7,7 @@ tagline: Supporting tagline
 # 2020
 
 - L. Kittstein, S. Weisgerber und K. Witzel (2020) Schulverweigerung („Freilernen“) als ziviler Ungehorsam
+- die freilerner Zeitung Hefte 77 2018
 - Wolfgang Schmitz (2013) Schneller lesen - besser verstehen
 - Anke Stemmmann (2013) Potsdam Entdecken
 - Analysis (Hagen Universität)
