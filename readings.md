@@ -6,6 +6,7 @@ tagline: Supporting tagline
 
 # 2020
 
+- die freilerner Zeitung Hefte 79
 - Patrick McKeown (2018) Erfolgsfaktor Sauerstoff
 - Andreas Franz (2000) Grundkurs Graphologie
 - L. Kittstein, S. Weisgerber und K. Witzel (2020) Schulverweigerung („Freilernen“) als ziviler Ungehorsam
