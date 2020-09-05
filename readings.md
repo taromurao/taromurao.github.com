@@ -6,6 +6,7 @@ tagline: Supporting tagline
 
 # 2020
 
+- die freilener Zeitung Hefte 86
 - die freilerner Zeitung Hefte 79
 - Patrick McKeown (2018) Erfolgsfaktor Sauerstoff
 - Andreas Franz (2000) Grundkurs Graphologie
