@@ -6,6 +6,7 @@ tagline: Supporting tagline
 
 # 2020
 
+- John Stillwell (2010) Mathematics and its history
 - die freilener Zeitung Hefte 86
 - die freilerner Zeitung Hefte 79
 - Patrick McKeown (2018) Erfolgsfaktor Sauerstoff
