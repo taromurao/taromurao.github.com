@@ -6,6 +6,7 @@ tagline: Supporting tagline
 
 # 2020
 
+- Kathrin Warweg (2017) Gelingende Konflikttransformation in der arabischen Welt: Die Mediationserfolge der Könige
 - John Stillwell (2010) Mathematics and its history
 - die freilener Zeitung Hefte 86
 - die freilerner Zeitung Hefte 79
