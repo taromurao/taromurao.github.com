@@ -6,6 +6,7 @@ tagline: Supporting tagline
 
 # 2020
 
+- Miralda Colombo (2019) Helden-Atlas - 101 Frauen und Männer, die die Welt verändert haben (Midas Kinderbuch)
 - Kathrin Warweg (2017) Gelingende Konflikttransformation in der arabischen Welt: Die Mediationserfolge der Könige
 - John Stillwell (2010) Mathematics and its history
 - die freilener Zeitung Hefte 86
