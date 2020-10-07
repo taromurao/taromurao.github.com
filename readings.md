@@ -6,6 +6,7 @@ tagline: Supporting tagline
 
 # 2020
 
+- Leila Ahmed (1992) Women and Gender in Islam
 - Patrick McKeown (2018) Erfolgsfaktor Sauerstoff
 - Andreas Franz (2000) Grundkurs Graphologie
 - L. Kittstein, S. Weisgerber und K. Witzel (2020) Schulverweigerung („Freilernen“) als ziviler Ungehorsam
@@ -26,8 +27,7 @@ tagline: Supporting tagline
 - W. J. King, James G. Skoon (2001) Unwritten Laws of Engineering: Revised and Updated Edition
 
 
-2019
-----
+# 2019
 
 - Andrew Holecek (2016) Dream Yoga: Illuminating Your Life Through Lucid Dreaming and the Tibetan Yogas of Sleep
 - Jesper Juul (2018) Leitwölfe sein: Liebevolle Führung in der Familie
