@@ -7,6 +7,11 @@ tagline: Supporting tagline
 # 2020
 
 - Leila Ahmed (1992) Women and Gender in Islam
+- Miralda Colombo (2019) Helden-Atlas - 101 Frauen und Männer, die die Welt verändert haben (Midas Kinderbuch)
+- Kathrin Warweg (2017) Gelingende Konflikttransformation in der arabischen Welt: Die Mediationserfolge der Könige
+- John Stillwell (2010) Mathematics and its history
+- die freilener Zeitung Hefte 86
+- die freilerner Zeitung Hefte 79
 - Patrick McKeown (2018) Erfolgsfaktor Sauerstoff
 - Andreas Franz (2000) Grundkurs Graphologie
 - L. Kittstein, S. Weisgerber und K. Witzel (2020) Schulverweigerung („Freilernen“) als ziviler Ungehorsam
