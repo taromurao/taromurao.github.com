@@ -6,6 +6,7 @@ tagline: Supporting tagline
 
 # 2020
 
+- R.E. Ward, Y. Sakamoto Ed. (1987) Democratizing Japan
 - Leila Ahmed (1992) Women and Gender in Islam
 - Miralda Colombo (2019) Helden-Atlas - 101 Frauen und Männer, die die Welt verändert haben (Midas Kinderbuch)
 - Kathrin Warweg (2017) Gelingende Konflikttransformation in der arabischen Welt: Die Mediationserfolge der Könige
