@@ -6,6 +6,7 @@ tagline: Supporting tagline
 
 # 2020
 
+- 井筒 俊彦 (1991) イスラーム文化−その根柢にあるもの
 - R.E. Ward, Y. Sakamoto Ed. (1987) Democratizing Japan
 - Leila Ahmed (1992) Women and Gender in Islam
 - Miralda Colombo (2019) Helden-Atlas - 101 Frauen und Männer, die die Welt verändert haben (Midas Kinderbuch)
