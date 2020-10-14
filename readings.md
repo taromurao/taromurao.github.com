@@ -6,6 +6,8 @@ tagline: Supporting tagline
 
 # 2020
 
+- かぞくのじかん Vol.53
+- かぞくのじかん Vol.52
 - 井筒 俊彦 (1991) イスラーム文化−その根柢にあるもの
 - R.E. Ward, Y. Sakamoto Ed. (1987) Democratizing Japan
 - Leila Ahmed (1992) Women and Gender in Islam
