@@ -6,6 +6,7 @@ tagline: Supporting tagline
 
 # 2020
 
+- Elif Shafak (2010) "The Fourty Rules of Love"
 - かぞくのじかん Vol.53
 - かぞくのじかん Vol.52
 - 井筒 俊彦 (1991) イスラーム文化−その根柢にあるもの
