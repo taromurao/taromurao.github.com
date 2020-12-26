@@ -6,6 +6,7 @@ tagline: Supporting tagline
 
 # 2020
 
+- Coleman Barks translation (2003) Rumi the book of love
 - Elif Shafak (2010) "The Forty Rules of Love"
 - かぞくのじかん Vol.53
 - かぞくのじかん Vol.52
