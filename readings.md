@@ -4,6 +4,11 @@ title: Readings
 tagline: Supporting tagline
 ---
 
+# 2021
+
+- ラッセル・E. エリクソン (2007) ウォートンとモートンの大ひょうりゅう―ヒキガエルとんだ大冒険〈6〉
+- ローラ・インガルス・ワイルダー (2002) 大草原の小さな家 ―インガルス一家の物語〈2〉
+
 # 2020
 
 - Coleman Barks translation (2003) Rumi the book of love
