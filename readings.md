@@ -6,6 +6,9 @@ tagline: Supporting tagline
 
 # 2021
 
+- Michael Bitz (2020) Investition (Hagen Universitaet)
+- Rainer Baule (2020) Finanzierung (Hagen Universitaet)
+- T. Hering, C. Toll (2009) BWL-Klausuren 4. Auflage
 - Dieter Losskarn (2014) DuMont Reise-Handbuch Reiseführer Namibia: mit Extra-Reisekarte
 - ラッセル・E. エリクソン (2007) ウォートンとモートンの大ひょうりゅう―ヒキガエルとんだ大冒険〈6〉
 - ローラ・インガルス・ワイルダー (2002) 大草原の小さな家 ―インガルス一家の物語〈2〉
