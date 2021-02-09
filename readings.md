@@ -6,6 +6,8 @@ tagline: Supporting tagline
 
 # 2021
 
+- Henning Mankell (2006) Ich sterbe, aber die Erinnerung lebt
+- Alex Perry (2017) The Rift: A New Africa Breaks Free
 - Michael Bitz (2020) Investition (Hagen Universitaet)
 - Rainer Baule (2020) Finanzierung (Hagen Universitaet)
 - T. Hering, C. Toll (2009) BWL-Klausuren 4. Auflage
