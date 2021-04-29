@@ -6,6 +6,7 @@ tagline: Supporting tagline
 
 # 2021
 
+- Pauline de Bock (2018) Beute: Mein Jahr auf der Jagd
 - Lew Tolstoy (1878) Anna Karenina
 - Don Tapscott (2018) Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies Is Changing the World
 - Henning Mankell (2006) Ich sterbe, aber die Erinnerung lebt
