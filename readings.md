@@ -6,6 +6,14 @@ tagline: Supporting tagline
 
 # 2021
 
+- Rainer Olbrich (?) Einführung in das Marketing
+- Günter Fandel (?) Grundlage der Leistungserstellung
+- Günter Fandel et al. (?) Kostenrechnung
+- Dieter Schneeloch (?) Grundlage der betrieblichen Steuerlehre
+- Gerold Mus (?) Buchhaltung
+- M.Bitz et al. (?) Jahresabschluss
+- Luise Unger (?) Mathematische Grundlagen
+- Imran Bashir (2020) Mastering Blockchain: A deep dive into distributed ledgers, consensus protocols, smart contracts, DApps, cryptocurrencies, Ethereum, and more, 3rd Edition
 - Pauline de Bock (2018) Beute: Mein Jahr auf der Jagd
 - Lew Tolstoy (1878) Anna Karenina
 - Don Tapscott (2018) Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies Is Changing the World
