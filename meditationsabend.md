@@ -13,6 +13,11 @@ Es gibt kein Gebühr, aber Spende, z.B. 5 Euro pro Abend, wird willkommen.
 Denn wir um 18 Uhr zeitlich anfangen wollen, komm bitte ca. 5 - 10 Minuten zuvor.
 
 
+## Corona-Pandemie
+
+Wegen der Regeln gegen Corona-Pandemie, finden leider derzeit keine Meditationsabende statt.
+
+
 ## Ansprechpartner:
 
 Taro Murao
@@ -26,7 +31,7 @@ Ort: Alte Sportplatzstr. 44, 09471 Bärenstein
 
 27.1.2022, 20.1.2022, 13.1.2022, 6.1.2022,
 
-<del>30.12.2021</del>, 23.12.2021, 16.12.2021, 9.12.2021, 2.12.2021,
+<del>30.12.2021</del>, 23.12.2021, 16.12.2021, 9.12.2021, <del>2.12.2021</del>,
 
 <del>25.11.2021</del>, 18.11.2021, <del>11.11.2021</del>, <del>4.11.2021</del>,
 
